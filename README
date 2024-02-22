@@ -1,0 +1,9 @@
+(1) -> Start Apache and MySQL from Xampp Control
+(2) -> Create a database name cinema
+(3) -> I have already added the migrations file
+(4) -> To install all the dependencies run following command -> npm install
+(4) -> To run migrations file run following command -> npx db-migrate up
+(5) -> To run the project run following command -> npm run dev
+(6) -> I'm sharing postman collection link -> from there you can make the POST request and test the APIs
+
+(7) -> https://blue-shuttle-204868.postman.co/workspace/Biton-Tree~78acdd1d-91f5-455a-af0b-6aa1aca15b53/collection/32843084-3381d637-b602-404f-9b17-406c4647fa9a?action=share&creator=32843084
